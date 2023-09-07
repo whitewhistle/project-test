@@ -5,9 +5,9 @@
 ### 3)The api folder contains the code for deploying Strappi and Green-Com folder contains the code for deploying project-test
 
 ### 4) cd to api folder open a new terminal 
-'''
+```
 npm install
-'''
+```
 
 ### 🚀 Getting started with Strapi
 
@@ -24,9 +24,9 @@ yarn develop
 
 ### 5) cd to Green com folder open a new terminal
 
-'''
+```
 npm start
-'''
+```
 
 ### 6) Both terminal must run at the same time and open localhost/3000:
 
