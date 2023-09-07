@@ -1,6 +1,6 @@
 ### 1)Clone this repo into your local storage.Let this folder be "project-test"
 
-### 2)Clone the repo 'whitewhistle/Green-Com' 'https://github.com/whitewhistle/Green-Com.git' and this folder say 'Green-Com' under your 'project-test'folder
+### 2)Clone the repo 'whitewhistle/Green-Com' 'https://github.com/whitewhistle/Green-Com.git' and add this folder say 'Green-Com' under your 'project-test'directory
 
 ### 3)The api folder contains the code for deploying Strappi and Green-Com folder contains the code for deploying project-test
 
